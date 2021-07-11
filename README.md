@@ -48,7 +48,7 @@
 
 ---------
 
-| <a href="https://github.com/Piubit/SeTaN-BoT"><img src="https://img.shields.io/badge/《 Script BoT Whatsapp 》-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
+| <a href="https://github.com/Piubit/Luc-Bot"><img src="https://img.shields.io/badge/《 Script BoT Whatsapp 》-000000?style=for-the-badge&logo=github&logoColor=white"></a> | 
 |---------|
 ---------
 ### MY TEAM
