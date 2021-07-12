@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Yahallo minna!
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Ohayooo Bakaa.....YAMETEEE!
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77515527/106854697-fce66b80-6678-11eb-905d-2b2e1d9bb973.jpg"
   </p>
