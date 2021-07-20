@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Ohayooo Bakaa.....YAMETEEE!
 <p align="center">
-<img src="https://user-images.githubusercontent.com/Piubit/Piubit.jpg"
+<img src="https://user-images.githubusercontent.com/Piubit/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperbetter.com%2Fgames-wallpaper%2Fgameglobe-action-adventure-139164&psig=AOvVaw3cHa--lsHYBibKGTsOcTOp&ust=1626836590863000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjX4drU8PECFQAAAAAdAAAAABAD.jpg"
   </p>
 <br>
   
